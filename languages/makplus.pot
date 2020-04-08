@@ -1,0 +1,782 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Uhu Element\n"
+"POT-Creation-Date: 2019-10-29 13:00+0600\n"
+"PO-Revision-Date: 2019-10-29 13:00+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: uhu-element.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/author-widget.php:14
+msgid "uhu author here"
+msgstr ""
+
+#: includes/author-widget.php:18
+msgid "Author : uhu"
+msgstr ""
+
+#: includes/author-widget.php:38
+msgid "About Author"
+msgstr ""
+
+#: includes/author-widget.php:40
+msgid "A design is plan or specification for the construction"
+msgstr ""
+
+#: includes/author-widget.php:121 includes/recent-post.php:125
+msgid "Title:"
+msgstr ""
+
+#: includes/author-widget.php:125
+msgid "Profile image:"
+msgstr ""
+
+#: includes/author-widget.php:131
+msgid "Short description:"
+msgstr ""
+
+#: includes/author-widget.php:135
+msgid "Facebook:"
+msgstr ""
+
+#: includes/author-widget.php:139
+msgid "Twitter:"
+msgstr ""
+
+#: includes/author-widget.php:143
+msgid "Pinterest:"
+msgstr ""
+
+#: includes/author-widget.php:147
+msgid "Linkedin:"
+msgstr ""
+
+#: includes/custom-posts.php:16
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:17
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:18
+msgctxt "admin menu"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:19
+msgctxt "add new on admin bar"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:20
+msgctxt "Portfolio"
+msgid "Add New"
+msgstr ""
+
+#: includes/custom-posts.php:21
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:22
+msgid "New Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:23
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:24
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:25
+msgid "All Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:26
+msgid "Search Portfolio"
+msgstr ""
+
+#: includes/custom-posts.php:27
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: includes/custom-posts.php:28
+msgid "No Portfolio found."
+msgstr ""
+
+#: includes/custom-posts.php:29
+msgid "No Portfolio found in Trash."
+msgstr ""
+
+#: includes/custom-posts.php:32
+msgid "Description."
+msgstr ""
+
+#: includes/custom-posts.php:48
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/custom-posts.php:49
+msgid "Add New Category"
+msgstr ""
+
+#: includes/elementor/elementor.php:20
+msgid "uhu Elements"
+msgstr ""
+
+#: includes/elementor/widgets/widget-accordion.php:14
+#: includes/elementor/widgets/widget-accordion.php:30
+msgid "Accordion"
+msgstr ""
+
+#: includes/elementor/widgets/widget-accordion.php:40
+#: includes/elementor/widgets/widget-banner.php:67
+#: includes/elementor/widgets/widget-contact.php:42
+#: includes/elementor/widgets/widget-counter.php:56
+#: includes/elementor/widgets/widget-exclusivefeatures.php:73
+#: includes/elementor/widgets/widget-gallery.php:46
+#: includes/elementor/widgets/widget-gallery.php:68
+#: includes/elementor/widgets/widget-newsletter.php:50
+#: includes/elementor/widgets/widget-offerfeature.php:47
+#: includes/elementor/widgets/widget-offerfeature.php:66
+#: includes/elementor/widgets/widget-portfolio.php:46
+#: includes/elementor/widgets/widget-service.php:46
+#: includes/elementor/widgets/widget-title.php:14
+#: includes/elementor/widgets/widget-title.php:30
+#: includes/elementor/widgets/widget-title.php:47
+msgid "Title"
+msgstr ""
+
+#: includes/elementor/widgets/widget-accordion.php:46
+#: includes/elementor/widgets/widget-banner.php:84
+#: includes/elementor/widgets/widget-banner.php:100
+#: includes/elementor/widgets/widget-contact.php:50
+#: includes/elementor/widgets/widget-service.php:54
+msgid "Text"
+msgstr ""
+
+#: includes/elementor/widgets/widget-accordion.php:54
+msgid "Accordion list"
+msgstr ""
+
+#: includes/elementor/widgets/widget-accordion.php:59
+msgid "Lorem ipsum dummy text used here?"
+msgstr ""
+
+#: includes/elementor/widgets/widget-accordion.php:60
+#: includes/elementor/widgets/widget-accordion.php:64
+#: includes/elementor/widgets/widget-accordion.php:68
+msgid ""
+"Lorem ipsum dolor sit amet, vix an natum labitur eleifd, mel am laoreet "
+"menandri. Ei justo complectitur duo. Ei mundi solet utos soletu possit quo. "
+"Sea cu justo laudem."
+msgstr ""
+
+#: includes/elementor/widgets/widget-accordion.php:63
+msgid "Why i should buy this Theme?"
+msgstr ""
+
+#: includes/elementor/widgets/widget-accordion.php:67
+msgid "Can i change any elements easilly?"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:14
+#: includes/elementor/widgets/widget-banner.php:30
+msgid "Banner"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:39
+msgid "Banner Style"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:43
+msgid "SaaS"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:44
+msgid "HR Management"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:45
+msgid "Digital Marketing"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:46
+msgid "Accounts Billing"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:47
+msgid "How we work"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:56
+msgid "Banner image"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:69
+msgid "Thinking Software High Quality"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:76
+#: includes/elementor/widgets/widget-newsletter.php:58
+#: includes/elementor/widgets/widget-pricing.php:60
+msgid "Description"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:78
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing seddo eiumod tempor "
+"incididunt labore dolore"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:86
+msgid "get started"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:92
+#: includes/elementor/widgets/widget-banner.php:108
+#: includes/elementor/widgets/widget-video.php:48
+msgid "URL"
+msgstr ""
+
+#: includes/elementor/widgets/widget-banner.php:102
+msgid "contact us"
+msgstr ""
+
+#: includes/elementor/widgets/widget-blog.php:13
+msgid "Latest Blog"
+msgstr ""
+
+#: includes/elementor/widgets/widget-blog.php:27
+msgid "Blog"
+msgstr ""
+
+#: includes/elementor/widgets/widget-blog.php:34
+msgid "Order"
+msgstr ""
+
+#: includes/elementor/widgets/widget-blog.php:38
+msgid "Ascending"
+msgstr ""
+
+#: includes/elementor/widgets/widget-blog.php:39
+msgid "Descending"
+msgstr ""
+
+#: includes/elementor/widgets/widget-blog.php:82
+msgid "By"
+msgstr ""
+
+#: includes/elementor/widgets/widget-blog.php:87
+msgid "Read More"
+msgstr ""
+
+#: includes/elementor/widgets/widget-button.php:14
+#: includes/elementor/widgets/widget-button.php:30
+msgid "Button"
+msgstr ""
+
+#: includes/elementor/widgets/widget-button.php:37
+#: includes/elementor/widgets/widget-features.php:76
+#: includes/elementor/widgets/widget-gallery.php:96
+msgid "Button Text"
+msgstr ""
+
+#: includes/elementor/widgets/widget-button.php:39
+msgid "Learn More"
+msgstr ""
+
+#: includes/elementor/widgets/widget-button.php:45
+#: includes/elementor/widgets/widget-features.php:84
+#: includes/elementor/widgets/widget-gallery.php:105
+msgid "Button URL"
+msgstr ""
+
+#: includes/elementor/widgets/widget-button.php:54
+msgid "Align"
+msgstr ""
+
+#: includes/elementor/widgets/widget-button.php:58
+#: includes/elementor/widgets/widget-title.php:64
+msgid "Center"
+msgstr ""
+
+#: includes/elementor/widgets/widget-button.php:59
+#: includes/elementor/widgets/widget-title.php:60
+msgid "Left"
+msgstr ""
+
+#: includes/elementor/widgets/widget-button.php:60
+#: includes/elementor/widgets/widget-title.php:68
+msgid "Right"
+msgstr ""
+
+#: includes/elementor/widgets/widget-contact.php:13
+#: includes/elementor/widgets/widget-contact.php:27
+msgid "Contact Item"
+msgstr ""
+
+#: includes/elementor/widgets/widget-contact.php:34
+#: includes/elementor/widgets/widget-counter.php:40
+#: includes/elementor/widgets/widget-offerfeature.php:58
+#: includes/elementor/widgets/widget-service.php:35
+msgid "Icon"
+msgstr ""
+
+#: includes/elementor/widgets/widget-contact.php:44
+msgid "Call us"
+msgstr ""
+
+#: includes/elementor/widgets/widget-counter.php:14
+#: includes/elementor/widgets/widget-counter.php:30
+#: includes/elementor/widgets/widget-counter.php:64
+msgid "Counter"
+msgstr ""
+
+#: includes/elementor/widgets/widget-counter.php:48
+msgid "Count"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:14
+#: includes/elementor/widgets/widget-exclusivefeatures.php:30
+#: includes/elementor/widgets/widget-exclusivefeatures.php:75
+msgid "Exclusive Features"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:38
+msgid "Gradient Color 1"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:50
+msgid "Gradient Color 2"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:62
+msgid "Mockup image"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:82
+#: includes/elementor/widgets/widget-gallery.php:37
+#: includes/elementor/widgets/widget-title.php:38
+msgid "Sub Title"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:84
+msgid "Lorem ipsum dummy text are used here so replace your app data"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:92
+#: includes/elementor/widgets/widget-features.php:53
+msgid "Feature Icon"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:102
+#: includes/elementor/widgets/widget-features.php:60
+msgid "Feature Title"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:110
+#: includes/elementor/widgets/widget-features.php:68
+msgid "Feature Text"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:119
+#: includes/elementor/widgets/widget-features.php:14
+#: includes/elementor/widgets/widget-features.php:30
+msgid "Features"
+msgstr ""
+
+#: includes/elementor/widgets/widget-exclusivefeatures.php:130
+#: includes/elementor/widgets/widget-exclusivefeatures.php:141
+msgid "Screenshot"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:38
+#: includes/elementor/widgets/widget-newsletter.php:38
+msgid "Layout Style"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:42
+#: includes/elementor/widgets/widget-newsletter.php:42
+#: includes/elementor/widgets/widget-pricing.php:42
+#: includes/elementor/widgets/widget-testimonials.php:43
+msgid "Style 1"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:43
+#: includes/elementor/widgets/widget-newsletter.php:43
+#: includes/elementor/widgets/widget-pricing.php:43
+#: includes/elementor/widgets/widget-testimonials.php:44
+msgid "Style 2"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:44
+#: includes/elementor/widgets/widget-testimonials.php:45
+msgid "Style 3"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:45
+msgid "Style 4"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:46
+msgid "Style 5"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:93
+msgid "Active"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:95
+#: includes/elementor/widgets/widget-pricing.php:160
+#: includes/elementor/widgets/widget-title.php:82
+msgid "On"
+msgstr ""
+
+#: includes/elementor/widgets/widget-features.php:96
+#: includes/elementor/widgets/widget-pricing.php:161
+#: includes/elementor/widgets/widget-title.php:83
+msgid "Off"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:13
+#: includes/elementor/widgets/widget-gallery.php:29
+msgid "Gallery Item"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:39
+msgid "Awesome Portfolio"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:48
+msgid "Our Exclusive Gallery"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:57
+#: includes/elementor/widgets/widget-portfolio.php:35
+msgid "Image"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:70
+msgid "Sequrity Management"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:77
+msgid "Subtitle"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:79
+msgid "Blending Image"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:86
+msgid "Gallery"
+msgstr ""
+
+#: includes/elementor/widgets/widget-gallery.php:98
+msgid "More Project"
+msgstr ""
+
+#: includes/elementor/widgets/widget-newsletter.php:14
+#: includes/elementor/widgets/widget-newsletter.php:30
+msgid "Newsletter"
+msgstr ""
+
+#: includes/elementor/widgets/widget-newsletter.php:52
+msgid "Get reguler updates"
+msgstr ""
+
+#: includes/elementor/widgets/widget-newsletter.php:60
+msgid ""
+"Lorem ipsum dummy text are used here so replace your app data, Lorem ipsm"
+msgstr ""
+
+#: includes/elementor/widgets/widget-newsletter.php:66
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: includes/elementor/widgets/widget-newsletter.php:68
+msgid "[mc4wp_form id=\"123\"]"
+msgstr ""
+
+#: includes/elementor/widgets/widget-newsletter.php:74
+msgid "Floating Image"
+msgstr ""
+
+#: includes/elementor/widgets/widget-offerfeature.php:14
+#: includes/elementor/widgets/widget-offerfeature.php:30
+msgid "Offer Feature"
+msgstr ""
+
+#: includes/elementor/widgets/widget-offerfeature.php:38
+#: includes/elementor/widgets/widget-portfolio.php:54
+msgid "Sub title"
+msgstr ""
+
+#: includes/elementor/widgets/widget-offerfeature.php:68
+msgid "Control Incoming <br> Moneys"
+msgstr ""
+
+#: includes/elementor/widgets/widget-offerfeature.php:75
+#: includes/elementor/widgets/widget-pricing.php:113
+msgid "Feature List"
+msgstr ""
+
+#: includes/elementor/widgets/widget-partner.php:14
+msgid "Partner"
+msgstr ""
+
+#: includes/elementor/widgets/widget-partner.php:30
+msgid "partner"
+msgstr ""
+
+#: includes/elementor/widgets/widget-partner.php:41
+#: includes/elementor/widgets/widget-testimonials.php:56
+msgid "Choose Photo"
+msgstr ""
+
+#: includes/elementor/widgets/widget-partner.php:53
+msgid "Partner List"
+msgstr ""
+
+#: includes/elementor/widgets/widget-portfolio.php:13
+#: includes/elementor/widgets/widget-portfolio.php:27
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/elementor/widgets/widget-portfolio.php:48
+msgid "Blanding Pro"
+msgstr ""
+
+#: includes/elementor/widgets/widget-portfolio.php:56
+msgid "Creative Market"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:14
+#: includes/elementor/widgets/widget-pricing.php:30
+msgid "Pricing"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:38
+#: includes/elementor/widgets/widget-testimonials.php:39
+msgid "Style"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:51
+msgid "title"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:69
+msgid "icon"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:77
+msgid "Price"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:86
+msgid "Package"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:90
+msgid "Daily"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:91
+msgid "Weekly"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:92
+msgid "Monthly"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:93
+msgid "Yealry"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:94
+msgid "None"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:104
+msgid "Feature"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:106
+#: includes/elementor/widgets/widget-pricing.php:130
+msgid "10 Free Domain Names"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:118
+msgid "5GB Storage Space"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:121
+msgid "20GB Monthly Bandwidth"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:124
+msgid "My SQL Databases"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:127
+msgid "100 Email Account"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:140
+msgid "button text"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:149
+msgid "button URL"
+msgstr ""
+
+#: includes/elementor/widgets/widget-pricing.php:158
+msgid "Recommended"
+msgstr ""
+
+#: includes/elementor/widgets/widget-service.php:13
+#: includes/elementor/widgets/widget-service.php:27
+msgid "Service Item"
+msgstr ""
+
+#: includes/elementor/widgets/widget-service.php:48
+msgid "Awesome Design"
+msgstr ""
+
+#: includes/elementor/widgets/widget-service.php:56
+msgid ""
+"Lorem ipsum dummy text are used here so replace your app data, ipsum dummy "
+"text are used here so"
+msgstr ""
+
+#: includes/elementor/widgets/widget-service.php:63
+msgid "Service Style"
+msgstr ""
+
+#: includes/elementor/widgets/widget-service.php:67
+msgid "Center Icon"
+msgstr ""
+
+#: includes/elementor/widgets/widget-service.php:68
+msgid "Left Icon"
+msgstr ""
+
+#: includes/elementor/widgets/widget-softwareintegration.php:14
+#: includes/elementor/widgets/widget-softwareintegration.php:30
+msgid "Software Integration"
+msgstr ""
+
+#: includes/elementor/widgets/widget-softwareintegration.php:41
+msgid "Software Logo"
+msgstr ""
+
+#: includes/elementor/widgets/widget-softwareintegration.php:52
+msgid "Software URL"
+msgstr ""
+
+#: includes/elementor/widgets/widget-softwareintegration.php:62
+msgid "Software List"
+msgstr ""
+
+#: includes/elementor/widgets/widget-testimonials.php:14
+#: includes/elementor/widgets/widget-testimonials.php:30
+msgid "Testimonials"
+msgstr ""
+
+#: includes/elementor/widgets/widget-testimonials.php:67
+msgid "Name"
+msgstr ""
+
+#: includes/elementor/widgets/widget-testimonials.php:76
+msgid "Designation"
+msgstr ""
+
+#: includes/elementor/widgets/widget-testimonials.php:84
+msgid "Testimonial"
+msgstr ""
+
+#: includes/elementor/widgets/widget-testimonials.php:92
+msgid "Testimonial List"
+msgstr ""
+
+#: includes/elementor/widgets/widget-title.php:40
+msgid "exclusive feature"
+msgstr ""
+
+#: includes/elementor/widgets/widget-title.php:49
+msgid "Awesome Customer Service With Our Tools."
+msgstr ""
+
+#: includes/elementor/widgets/widget-title.php:56
+msgid "Alignment"
+msgstr ""
+
+#: includes/elementor/widgets/widget-title.php:80
+msgid "White title"
+msgstr ""
+
+#: includes/elementor/widgets/widget-video.php:14
+#: includes/elementor/widgets/widget-video.php:30
+msgid "Video"
+msgstr ""
+
+#: includes/elementor/widgets/widget-video.php:37
+msgid "Background"
+msgstr ""
+
+#: includes/recent-post.php:14
+msgid "uhu recent post here"
+msgstr ""
+
+#: includes/recent-post.php:18
+msgid "Recent Post : uhu"
+msgstr ""
+
+#: includes/recent-post.php:38
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/recent-post.php:130
+msgid "No. of Item of posts to show:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Uhu Element"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ThemeBeyond.com/mega-addons-for-elementor"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeBeyond"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://ThemeBeyond.com"
+msgstr ""
